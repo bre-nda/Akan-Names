@@ -15,7 +15,6 @@ img {
     border-radius: 20px;
     width: 30%;
     float: right;
-    text-align: center;
-    position: relative;
-    left: 50px;
+    position: absolute;
+    left: 40px;
 }
